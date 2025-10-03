@@ -1,4 +1,6 @@
 
+![Project Thumbnail](./thumbnail.jpg)
+
 # Join Our Newsletter
 
 ## Overview

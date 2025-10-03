@@ -37,7 +37,6 @@ This project is a responsive newsletter sign-up page built as part of a devChall
 ## Contact
 
 - GitHub: [Daniel Pombo](https://github.com/DanielPomboDev)
-- Twitter: [@DanielPomboDev](https://twitter.com/DanielPomboDev)
 
 ## Acknowledgements
 
